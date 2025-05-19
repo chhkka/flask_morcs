@@ -1,0 +1,8 @@
+# Abaikan file dan folder sementara
+node_modules/
+dist/
+*.log
+
+# Abaikan file konfigurasi lokal
+.env
+.vscode/
